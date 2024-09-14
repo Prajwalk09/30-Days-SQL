@@ -1,1 +1,2 @@
 # 30-Days-SQL
+This repository contains a collection of SQL questions that I solved over a period of 30 days. The goal of this project was to improve my SQL skills through consistent practice. Each file in the SQL Files directory represents a unique problem or challenge, showcasing various SQL concepts and techniques. The solutions are intended to demonstrate effective querying strategies and problem-solving approaches.
